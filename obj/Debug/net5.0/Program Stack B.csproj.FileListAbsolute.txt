@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.exe
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.deps.json
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.runtimeconfig.json
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.dll
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\ref\Program Stack B.dll
+C:\Users\kalvi\Documents\Program Stack B\bin\Debug\net5.0\Program Stack B.pdb
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.dll
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\ref\Program Stack B.dll
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.pdb
+C:\Users\kalvi\Documents\Program Stack B\obj\Debug\net5.0\Program Stack B.genruntimeconfig.cache
